@@ -6,3 +6,6 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 # 
 flink:1.20.0
+debezium/example-postgres:1.1
+debezium/example-mysql:1.1
+elastic/kibana:7.17.22
