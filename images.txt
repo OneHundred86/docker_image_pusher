@@ -13,4 +13,4 @@ elastic/kibana:7.17.22
 
 # 向量数据库
 bitnami/milvus
-pgvector/pgvector
+pgvector/pgvector:pg17
