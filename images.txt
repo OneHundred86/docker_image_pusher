@@ -25,5 +25,5 @@ redis:latest
 postgres:latest
 mongo:4.4.19-rc2
 docker.io/bitnami/kafka:3.7
-elasticsearch
+elasticsearch:8.19.3
 
