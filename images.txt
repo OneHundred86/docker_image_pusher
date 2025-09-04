@@ -22,7 +22,7 @@ milvusdb/milvus:v2.5.4
 # service
 mysql:5.7
 redis:latest
-postgres:latest
+postgres:17.6
 mongo:4.4.19-rc2
 docker.io/bitnami/kafka:3.7
 elasticsearch:8.19.3
