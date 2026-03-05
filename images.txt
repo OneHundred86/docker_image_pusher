@@ -14,8 +14,9 @@ elastic/kibana:7.17.22
 # pg向量数据库
 pgvector/pgvector:pg17
 
-# milvus
+# milvus向量数据库
 milvusdb/milvus:v2.6.11
+zilliz/attu:v2.6.5   # milvus可视化工具
 
 # service
 mysql:5.7
