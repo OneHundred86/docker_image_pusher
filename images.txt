@@ -15,7 +15,7 @@ elastic/kibana:7.17.22
 pgvector/pgvector:pg17
 
 # milvus
-milvusdb/milvus:2.6-20260304-718a4078OB
+milvusdb/milvus:v2.6.11
 
 # service
 mysql:5.7
