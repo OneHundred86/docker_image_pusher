@@ -18,7 +18,8 @@ pgvector/pgvector:pg17
 milvusdb/milvus:v2.6.11
 quay.io/coreos/etcd:v3.5.25
 minio/minio:RELEASE.2024-12-18T13-15-44Z
-zilliz/attu:v2.6   # milvus可视化工具
+# milvus可视化工具
+zilliz/attu:v2.6
 
 # service
 #mysql:5.7
