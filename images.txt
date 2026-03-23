@@ -6,24 +6,26 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 
 # 
-flink:1.20.0
-debezium/example-postgres:1.1
-debezium/example-mysql:1.1
-elastic/kibana:7.17.22
+#flink:1.20.0
+#debezium/example-postgres:1.1
+#debezium/example-mysql:1.1
+#elastic/kibana:7.17.22
 
 # pg向量数据库
 pgvector/pgvector:pg17
 
 # milvus向量数据库
 milvusdb/milvus:v2.6.11
-zilliz/attu:v2.6.5   # milvus可视化工具
+quay.io/coreos/etcd:v3.5.25
+minio/minio:RELEASE.2024-12-18T13-15-44Z
+zilliz/attu:v2.6   # milvus可视化工具
 
 # service
-mysql:5.7
-mysql:8.0.44
-redis:latest
-postgres:17.6
-mongo:4.4.19-rc2
-docker.io/bitnami/kafka:3.7
-elasticsearch:8.19.3
+#mysql:5.7
+#mysql:8.0.44
+#redis:latest
+#postgres:17.6
+#mongo:4.4.19-rc2
+#docker.io/bitnami/kafka:3.7
+#elasticsearch:8.19.3
 
